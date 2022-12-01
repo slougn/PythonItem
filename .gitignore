@@ -2,3 +2,4 @@
 out/
 object-orientedProgrammingPy/chapter2/__pycache__/
 .idea/
+*.csv
